@@ -1,7 +1,8 @@
 # Chocolate Chip Cookies
 
 ## Ingredients
-- 2 1/4 cups (280 g) all-purpose flour
+- 2
+ cups (280 g) all-purpose flour
 - 1 tsp baking soda
 - 1/2 tsp fine salt
 - 3/4 cup (170 g) unsalted butter, melted and slightly cooled
